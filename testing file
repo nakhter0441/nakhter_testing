@@ -1,1 +1,22 @@
 THis is very first file
+
+
+nasimtest@gmail.com
+
+Credit Card - American Express	371449635398431	
+Credit Card - Diners	36700102000000, 36148900647913	
+Credit Card - Discover	6011000990139424	
+Credit Card - Master	5127045700878574	
+Credit Card - Union Pay	8171999927660000, 	
+Credit Card - Visa	4111111111111111	
+Email	testmail@gmail.com	
+Indian PAN	TWBQA6578Y	
+Spain IBAN	ES91 2100 0418 4502 0005 1332	
+Spain NIE		
+Spain NIF	12345678Z	
+Spain Passport	AAI000000	
+Spain SSN	281234567840	
+Spain VAT	ESB78603495	
+US EIN (Employer Identification Number)	12-3456789	\b\d{2}[-]{1}\d{7}\b
+US Medical Insurance (Medicare)		\b((?!000)[0-6][0-9]{2}|7[0-6][0-9]|77[0-2])[-]((?!00)[0-9]{2})[-]((?!0000)[0-9]{4})([-][A-FHMTW][A-Z0-9]?|[A-FHMTW][A-Z0-9]?)\b
+
